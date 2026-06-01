@@ -1,0 +1,16 @@
+{
+  "name": "Cyber Web Design",
+  "short_name": "Cyber",
+  "description": "Professional website design services",
+  "start_url": "https://cyber-mj.github.io/Cyber/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#00ff88",
+  "icons": [
+    {
+      "src": "log.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
